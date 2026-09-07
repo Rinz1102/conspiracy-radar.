@@ -2,7 +2,7 @@
 
 **An explainable NLP tool that detects conspiracy-style rhetorical patterns in text** — not by keyword spam, but by identifying the actual linguistic structures (hidden-agent framing, us-vs-them language, false certainty, missing sourcing, emotional urgency) that misinformation research associates with conspiratorial rhetoric.
 
-🔗 **Live demo:** _add your deployed Streamlit Cloud link here_
+https://conspiracy-radar-rbkxwccdkdkhdyxamji8zj.streamlit.app/?utm_source=chatgpt.com
 📸 _add 1-2 screenshots of the app here once deployed_
 
 ---
@@ -51,7 +51,7 @@ conspiracy-radar/
 ## Running it locally
 
 ```bash
-git clone https://github.com/<your-username>/conspiracy-radar.git
+git clone https://github.com/Rinz1102/conspiracy-radar.git
 cd conspiracy-radar
 pip install -r requirements.txt
 
